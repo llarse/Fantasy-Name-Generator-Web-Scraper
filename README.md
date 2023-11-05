@@ -42,3 +42,8 @@ If I ever revist this project (it suited my needs so the chances are low), I wou
 * Error and Edge Case handling
 * generator links dictionary - I started implementation in get_generator_links.py but never finished it if youd like to continue
 
+
+## Acknowledgements
+
+Many thanks to Emily - the creator of the fantasynamegenerators.com website. 
+I checked for a robots.txt page and in the about section to ensure that web scraping was allowed. In my research, I found nothing to suggest that it wasnt allowed nor do I believe this web scraper morally or legally betrays the purpose or philosophy of the website. However, if you have information contrary, please contact me immediately to have this removed. 
